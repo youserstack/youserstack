@@ -1,16 +1,50 @@
-## Hi there 👋
+### frameworks
 
-<!--
-**youserstack/youserstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Next.js](https://img.shields.io/badge/Next.js-28a745?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 
-Here are some ideas to get you started:
+### languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/TypeScript-28a745?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+### backends
+
+![Node.js](https://img.shields.io/badge/Node.js-28a745?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-28a745?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-28a745?style=for-the-badge&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
+
+### infrastructures
+
+![Vercel](https://img.shields.io/badge/Vercel-28a745?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-000000?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+### styles
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-28a745?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-000000?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
+### libraries
+
+![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
+
+### basics
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+
+### package manager
+
+![NPM](https://img.shields.io/badge/NPM-28a745?style=for-the-badge&logo=npm&logoColor=white)
+
+### version control
+
+![Git](https://img.shields.io/badge/Git-28a745?style=for-the-badge&logo=git&logoColor=white)
