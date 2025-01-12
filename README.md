@@ -1,3 +1,21 @@
+# Web Applications
+
+#### Sorted by Latest
+
+| Category        | Link                                                           |
+| --------------- | -------------------------------------------------------------- |
+| E-Commerce      | [genzaro](https://genzaro.vercel.app)                          |
+| Interior Design | [noovez](https://noovez.vercel.app)                            |
+| E-Commerce      | [zarva](https://zarva.vercel.app)                              |
+| Portfolio       | [works-next-app](https://works-next-app.vercel.app)            |
+| Blog            | [blog-next-app](https://blog-next-app-three.vercel.app)        |
+| E-Commerce      | [commerce-next-app](https://commerce-next-app-zeta.vercel.app) |
+| Open Data       | [open-data-next-app](https://open-data-next-app.vercel.app)    |
+| Portfolio       | [portfolio-next-app](https://portfolio-next-app-nu.vercel.app) |
+
+
+
+
 ### frameworks
 
 ![Next.js](https://img.shields.io/badge/Next.js-28a745?style=for-the-badge&logo=nextdotjs&logoColor=white)
