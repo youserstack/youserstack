@@ -11,7 +11,6 @@
 | Blog            | [blog-next-app](https://blog-next-app-three.vercel.app)        |
 | E-Commerce      | [commerce-next-app](https://commerce-next-app-zeta.vercel.app) |
 | Open Data       | [open-data-next-app](https://open-data-next-app.vercel.app)    |
-| Portfolio       | [portfolio-next-app](https://portfolio-next-app-nu.vercel.app) |
 
 
 
