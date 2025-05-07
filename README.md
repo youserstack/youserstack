@@ -30,7 +30,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Koyeb](https://img.shields.io/badge/Koyeb-000000?style=for-the-badge&logo=koyeb&logoColor=white)
-
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-000000?style=for-the-badge&logo=amazonec2&logoColor=white)
