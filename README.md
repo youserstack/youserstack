@@ -2,9 +2,9 @@
 
 #### portfolio
 
-신 버전 : https://moti-nine.vercel.app
+신 버전 : https://youserstack-portfolio.vercel.app
 
-구 버전 : https://works-next-app.vercel.app
+구 버전 : https://moti-nine.vercel.app, https://works-next-app.vercel.app
 
 #### frontend
 
